@@ -25,4 +25,16 @@
 #     r=r-1
 # print(a)
 
+#>>>>>>>>>>>>>>>>>>>> my Won rev() function <<<<<<<<<<<<<<<<
+
+def rev(arr):
+    l=len(arr)//2
+    r=-1
+    for i in range(l):
+        a[i],a[r]=a[r],a[i]
+        r=r-1
+    return arr
+
+a=[1,2,3,4,5,6,7,8,9,10,11,13,17]
+print(rev(a))
 
