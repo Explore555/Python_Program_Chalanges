@@ -1,5 +1,4 @@
 # Check if a string is palindrome
-# s=input("Enter any sting or name or number or word= ")
 
 #>>>>>>>>>>> using build in sliceing operator --> [star:end:jump] <<<<<<<<<<<<<
 
